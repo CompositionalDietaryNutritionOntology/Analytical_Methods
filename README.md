@@ -27,7 +27,7 @@ Development of a dedicated and generic Methodology ontology/class associated wit
 o	spread the cost (eg 6 x $50k)
 o	increase the likelihood of widespread adoption
 
-To check and give feedback to the proposed hierarchichal classification please follow this [link] (https://docs.google.com/spreadsheets/d/1QekmumSvsW2uwfxl5xU_HzQLI0iy2FiQ/edit#gid=2019499444)
+To check and give feedback to the proposed hierarchichal classification please follow this [link](https://docs.google.com/spreadsheets/d/1QekmumSvsW2uwfxl5xU_HzQLI0iy2FiQ/edit#gid=2019499444)
 
 Potential partners:
 Industry:		We are actively seeking interested partners
